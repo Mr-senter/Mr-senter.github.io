@@ -1,0 +1,8 @@
+ h1 {
+     color: purple ;
+     background-color: brown ;
+     border-style: solid;
+     border-color: aquamarine;
+     border-width: 5px;
+     height: 50%;
+}
